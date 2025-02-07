@@ -1,3 +1,4 @@
 tensorflow
 dash
 dash-bootstrap-components
+PIL
