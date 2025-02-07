@@ -2,3 +2,4 @@ tensorflow
 dash
 dash-bootstrap-components
 pillow
+scipy
