@@ -51,6 +51,9 @@ fig.update_layout(
 
 
 app = Dash()
+
+server = app.server
+
 app.layout = html.Div([
     html.H1("Draw a Digit!", style={'text-align': 'center'}),
     dcc.Graph(
